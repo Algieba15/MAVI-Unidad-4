@@ -1,22 +1,22 @@
 ﻿  consigna1.cpp
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,74): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,74): warning C4244:         with
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,74): warning C4244:         [
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,74): warning C4244:             T=unsigned int
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,74): warning C4244:         ]
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,53): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,53): warning C4244:         with
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,53): warning C4244:         [
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,53): warning C4244:             T=unsigned int
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(35,53): warning C4244:         ]
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,72): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,72): warning C4244:         with
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,72): warning C4244:         [
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,72): warning C4244:             T=unsigned int
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,72): warning C4244:         ]
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,51): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,51): warning C4244:         with
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,51): warning C4244:         [
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,51): warning C4244:             T=unsigned int
-C:\Users\Pc\source\repos\Guía 4\Consigna 1\consigna1.cpp(40,51): warning C4244:         ]
-  Project5.vcxproj -> C:\Users\Pc\source\repos\Guía 4\Consigna 1\Debug\Project5.exe
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,67): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,67): warning C4244:         with
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,67): warning C4244:         [
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,67): warning C4244:             T=unsigned int
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,67): warning C4244:         ]
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,42): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,42): warning C4244:         with
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,42): warning C4244:         [
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,42): warning C4244:             T=unsigned int
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(18,42): warning C4244:         ]
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,61): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,61): warning C4244:         with
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,61): warning C4244:         [
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,61): warning C4244:             T=unsigned int
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,61): warning C4244:         ]
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,40): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,40): warning C4244:         with
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,40): warning C4244:         [
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,40): warning C4244:             T=unsigned int
+C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\consigna1.cpp(19,40): warning C4244:         ]
+  Project5.vcxproj -> C:\Users\Pc\source\repos\Verino. Guía 4 MAVI\MAVI-Unidad-4\Consigna 1\Debug\Project5.exe
