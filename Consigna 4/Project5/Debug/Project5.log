@@ -1,0 +1,20 @@
+﻿  consigna 4.cpp
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244: '=': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:         with
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:         [
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:             T=unsigned int
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:         ]
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:         and
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:         [
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:             T=float
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(76,45): warning C4244:         ]
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244: '=': conversión de 'T' a 'T'; posible pérdida de datos
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:         with
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:         [
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:             T=unsigned int
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:         ]
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:         and
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:         [
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:             T=float
+C:\Users\Pc\source\repos\Guía 4\Consigna 4\consigna 4.cpp(78,45): warning C4244:         ]
+  Project5.vcxproj -> C:\Users\Pc\source\repos\Guía 4\Consigna 4\Debug\Project5.exe

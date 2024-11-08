@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\source\\repos\\Gu\u00EDa 4\\Consigna 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509A410B-1C16-4F29-8A2D-ADC69F7E1E28}|Project5.vcxproj|C:\\Users\\Pc\\source\\repos\\Gu\u00EDa 4\\Consigna 1\\consigna1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{509A410B-1C16-4F29-8A2D-ADC69F7E1E28}|Project5.vcxproj|solutionrelative:consigna1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "consigna1.cpp",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\Gu\u00EDa 4\\Consigna 1\\consigna1.cpp",
+              "RelativeDocumentMoniker": "consigna1.cpp",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\Gu\u00EDa 4\\Consigna 1\\consigna1.cpp",
+              "RelativeToolTip": "consigna1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T23:33:07.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
